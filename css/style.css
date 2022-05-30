@@ -35,7 +35,6 @@ img {
 .main__contents {
   width: calc(100% - 260px);
   margin-left: auto;
-  margin-right: 0;
 }
 @media (min-width: 768px) and (max-width: 1239px) {
   .main__contents {
